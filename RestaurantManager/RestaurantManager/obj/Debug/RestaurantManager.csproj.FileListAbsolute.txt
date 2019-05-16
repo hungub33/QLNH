@@ -1,0 +1,49 @@
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csprojAssemblyReference.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\tuanc\OneDrive\Máy tính\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe.config
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.exe
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\bin\Debug\RestaurantManager.pdb
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddFood.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fAddMenu.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBackFood.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fBlock.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fConnect.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fFood.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fLoading.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.fLogin.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fMain.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fEmployees.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fNextTable.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPay.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPaymenthistory.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fPutTable.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fTable.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.GUI.fUpdate.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.Properties.Resources.resources
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.GenerateResource.Cache
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.csproj.CoreCompileInputs.cache
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.exe
+C:\Users\LaptopAZ.vn\Desktop\RestaurantManager\RestaurantManager\RestaurantManager\RestaurantManager\obj\Debug\RestaurantManager.pdb
